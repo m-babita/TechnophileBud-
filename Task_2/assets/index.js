@@ -5,7 +5,7 @@ const email = document.getElementById('email');
 form.addEventListener('submit', e => {
 	document.getElementById("myForm").submit();
 	checkInputs();
-});
+}); 
 
 function checkInputs() {
 	
