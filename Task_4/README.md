@@ -1,2 +1,2 @@
 #Business Website
-<img src="assets/preview.jpg">
+<img src="assets/preview.png">
